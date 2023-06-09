@@ -1,4 +1,4 @@
-# chatgpt
+# ChatGPT and DALL-E Flutter App
 
 A new Flutter project.
 
