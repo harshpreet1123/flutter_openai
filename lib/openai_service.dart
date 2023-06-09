@@ -12,7 +12,7 @@ class OpenAIService {
 
   var headers = {
     'content-type': 'application/json',
-    'X-RapidAPI-Key': '57cb782e1cmshbea1453293842b4p1fe663jsn31abf9086802',
+    'X-RapidAPI-Key': RapidApiKey,
     'X-RapidAPI-Host': 'openai80.p.rapidapi.com',
   };
 
